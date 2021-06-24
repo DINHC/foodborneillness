@@ -1,4 +1,4 @@
-#Foodborne Illness in the United States from 1998-2015
+# Foodborne Illness in the United States from 1998-2015
  
 Team Wolves, Project Members: Everett Waterman, Dinh Chau, Merari Cisneros
  
