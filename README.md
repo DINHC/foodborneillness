@@ -22,21 +22,15 @@ Everett will be focusing on the trends in cases by year.
 
 
 ## State Analysis
-
 * Clean Data
 * Group the data set by state
-* A bar graph that lists hospitilizations/state
-* A bar graph of deaths/state
-* Zero in on 5 top states with highest hospitalizations
-* Zero in on 5 top states with highest deaths
+* A bar graph for 5 states with most hospializations
+* A bar graph for 5 states with the most Fatalities
 * Plot line graphs for each of the 5 states (Hospitalizations Vs.Time)
 * Plot line graphs for each of the 5 states (Deaths Vs. Time)
+* Scatter plot (Hospitalizations Vs. Fatalities) for the state with the most hospitalizations and fatalities (sum Hosp + Fat)
 
-
-## Data Cleaning (Merari)
-
-I should be on the lookout for the following in:
-
+## Cleaning
 * Duplicate records in my data
 * irrelevant data (Look at the categories and see if any dont belong)
 * Deal with missing data. zeros for numerical , and 'Missing' for categorical
