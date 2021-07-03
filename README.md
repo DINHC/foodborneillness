@@ -20,3 +20,14 @@ Dinh will be focusing on the relation of illness to food type.
 Merari will be focusing on questions relating to the spread of cases by state.
 Everett will be focusing on the trends in cases by year.
 
+
+## State Analysis
+To Do:
+    * Group the data set by state
+    * A bar graph that lists hospitilizations/death 
+    * A bar graph of deaths/state
+    * Zero in on 5 top states with highest hospitalizations
+    * Zero in on 5 top states with highest deaths
+    *Plot line graphs for each of the 5 states (Hospitalizations Vs.Time)
+    *Plot line graphs for each of the 5 states (Deaths Vs. Time)
+    
